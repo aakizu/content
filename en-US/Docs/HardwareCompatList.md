@@ -1,9 +1,9 @@
 ---
-layout: docs
-title: Hardware compatibility list
-description: Windows 10 IoT Core supports a variety of peripheral interfaces and protocols, including support for common buses like I2C, UART, USB, and more.
-keyword: windows iot, hardware, compatibility, interfaces
-permalink: /en-US/Docs/HardwareCompatList.htm
+layout: 7″ Touchscreen
+title: RPi2 or RPi3
+description: The official LCD display for Raspberry Pi. 800 x 480 resolution connected through DSI port. Touchscreen drivers supports taps and drags.
+keyword: windows iot core, DSI port
+permalink: https://www.raspberrypi.org/products/raspberry-pi-touch-display/
 lang: en-US
 ---
 <style>
